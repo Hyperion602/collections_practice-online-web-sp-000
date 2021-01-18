@@ -46,7 +46,7 @@ def add_s(arr9)
     if index != 1
       word + "s"
     elsif
-      word
+      word == feet
   end
 end
 end
