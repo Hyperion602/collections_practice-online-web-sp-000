@@ -36,3 +36,7 @@ end
 def find_a(arr7)
   arr7.select { |word| word[0] == "a" }
 end
+
+def sum_array(arr8)
+  arr8.inject
+end
