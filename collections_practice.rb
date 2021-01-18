@@ -16,4 +16,4 @@ def sort_array_char_count(arr3)
       1
     end
   end
-      
+end
