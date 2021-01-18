@@ -43,6 +43,9 @@ end
 
 def add_s(arr9)
   arr9.each_with_index.collect do |word, index|
-  word + "s"
+  if index == 1
+    word
+  else
+    word + "s"
 end
 end
