@@ -46,5 +46,7 @@ def add_s(arr9)
     if index != 1
       word + "s"
     end
+  elsif
+    word
   end
 end
