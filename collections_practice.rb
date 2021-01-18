@@ -47,5 +47,6 @@ def add_s(arr9)
     word
   else
     word + "s"
+  end
 end
 end
