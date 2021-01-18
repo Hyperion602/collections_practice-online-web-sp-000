@@ -26,9 +26,3 @@ end
 def reverse_array(arr5)
   arr5.reverse
 end
-
-def kesha_maker(arr6)
-  arr6.each do |a|
-    a[3] = $
-  end
-end
