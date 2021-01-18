@@ -29,6 +29,6 @@ end
 
 def kesha_maker(arr6)
   arr6.each do |a|
-    a[3] = $
+    a[3] = "$"
   end
 end
