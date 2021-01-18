@@ -40,3 +40,11 @@ end
 def sum_array(arr8)
   arr8.inject { |sum, num| sum + num }
 end
+
+def add_s(arr9)
+  arr9.each_with_index.collect do |word, index|
+    if index != 1
+      word + "s"
+    end
+  end
+end
