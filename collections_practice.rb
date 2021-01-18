@@ -32,3 +32,6 @@ def kesha_maker(arr6)
     a[2] = "$"
   end
 end
+
+def find_a(arr7)
+  arr7.select { |word| word[0] == "a" }
